@@ -49,7 +49,7 @@ An AI-powered lead management workflow built with n8n.
 
 [View Project](https://github.com/uchexavier/ai-automation-portfolio/tree/main/projects/real-estate-lead-automation)
 
-### 2. Automated Order Reminder System
+### 2. Automated Order Classification & High-Value Alert System
 
 An order-processing workflow that categorizes incoming orders based on their monetary value.
 
