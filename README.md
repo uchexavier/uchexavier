@@ -92,6 +92,11 @@ Currently expanding my knowledge and practical experience in:
 
 I'm interested in connecting with professionals, businesses, and teams working in AI automation, workflow engineering, and business technology.
 
-**GitHub:** [@uchexavier](https://github.com/uchexavier)
+## Contact
+
+Interested in working together or discussing an automation project?
+
+- **Email:** uchennabuilds@gmail.com
+- **GitHub:** https://github.com/uchexavier
 
 **Portfolio:** [AI Automation Portfolio](https://github.com/uchexavier/ai-automation-portfolio)
