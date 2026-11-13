@@ -94,9 +94,8 @@ I'm interested in connecting with professionals, businesses, and teams working i
 
 ## Contact
 
-Interested in working together or discussing an automation project?
-
 - **Email:** uchennabuilds@gmail.com
-- **GitHub:** https://github.com/uchexavier
+- **LinkedIn:** [Uchenna Francis-Xavier Boniface](https://www.linkedin.com/in/uchenna-francis-xavier-boniface/)
+- **GitHub:** [uchexavier](https://github.com/uchexavier)
 
 **Portfolio:** [AI Automation Portfolio](https://github.com/uchexavier/ai-automation-portfolio)
